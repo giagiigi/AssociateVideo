@@ -1,0 +1,14 @@
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriFrequency\Apriori\bin\Release\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriFrequency\Apriori\obj\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriFrequency\Apriori\obj\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriFrequency\Apriori\bin\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriFrequency\Apriori\bin\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriFrequency\Apriori\obj\Release\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriFrequency\Apriori\obj\Release\AprioriFrequency.csproj.GenerateResource.Cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriFrequency\Apriori\bin\Release\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriFrequency\Apriori\obj\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriFrequency\Apriori\obj\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriFrequency\Apriori\bin\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriFrequency\Apriori\bin\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriFrequency\Apriori\obj\Release\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriFrequency\Apriori\obj\Release\AprioriFrequency.csproj.GenerateResource.Cache

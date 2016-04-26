@@ -1,0 +1,24 @@
+c:\users\t-xubai\documents\visual studio 2015\Projects\Apriori\Apriori\bin\Debug\Apriori.exe.config
+c:\users\t-xubai\documents\visual studio 2015\Projects\Apriori\Apriori\bin\Debug\Apriori.exe
+c:\users\t-xubai\documents\visual studio 2015\Projects\Apriori\Apriori\bin\Debug\Apriori.pdb
+c:\users\t-xubai\documents\visual studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.csprojResolveAssemblyReference.cache
+c:\users\t-xubai\documents\visual studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.exe
+c:\users\t-xubai\documents\visual studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.pdb
+C:\Users\t-xubai\Documents\Visual Studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Documents\Visual Studio 2015\Projects\Apriori\Apriori\obj\Debug\Apriori.csproj.GenerateResource.Cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\bin\Debug\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Debug\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Debug\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\bin\Debug\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\bin\Debug\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Debug\Apriori.csprojResolveAssemblyReference.cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Debug\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Debug\Apriori.csproj.GenerateResource.Cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Debug\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Debug\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Debug\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.csprojResolveAssemblyReference.cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.csproj.GenerateResource.Cache

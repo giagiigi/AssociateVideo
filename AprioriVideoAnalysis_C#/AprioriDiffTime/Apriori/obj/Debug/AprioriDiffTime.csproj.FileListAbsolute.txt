@@ -1,0 +1,8 @@
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Debug\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Debug\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Debug\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\AprioriDiffTime.csprojResolveAssemblyReference.cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Debug\AprioriDiffTime.csproj.GenerateResource.Cache

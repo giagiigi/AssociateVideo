@@ -1,0 +1,15 @@
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Release\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\bin\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Release\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriDiffTime\Apriori\obj\Release\AprioriDiffTime.csproj.GenerateResource.Cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\bin\Release\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\obj\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\obj\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\bin\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\bin\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\obj\Release\AprioriDiffTime.csprojResolveAssemblyReference.cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\obj\Release\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\AprioriVideoAnalysis\AprioriDiffTime\Apriori\obj\Release\AprioriDiffTime.csproj.GenerateResource.Cache

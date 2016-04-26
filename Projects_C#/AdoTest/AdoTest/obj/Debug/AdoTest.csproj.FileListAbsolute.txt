@@ -1,0 +1,9 @@
+c:\users\t-xubai\documents\visual studio 2015\Projects\AdoTest\AdoTest\bin\Debug\AdoTest.exe.config
+c:\users\t-xubai\documents\visual studio 2015\Projects\AdoTest\AdoTest\bin\Debug\AdoTest.exe
+c:\users\t-xubai\documents\visual studio 2015\Projects\AdoTest\AdoTest\bin\Debug\AdoTest.pdb
+c:\users\t-xubai\documents\visual studio 2015\Projects\AdoTest\AdoTest\obj\Debug\AdoTest.csprojResolveAssemblyReference.cache
+c:\users\t-xubai\documents\visual studio 2015\Projects\AdoTest\AdoTest\obj\Debug\AdoTest.exe
+c:\users\t-xubai\documents\visual studio 2015\Projects\AdoTest\AdoTest\obj\Debug\AdoTest.pdb
+C:\Users\t-xubai\Desktop\Projects\AdoTest\AdoTest\bin\Debug\AdoTest.exe.config
+C:\Users\t-xubai\Desktop\Projects\AdoTest\AdoTest\obj\Debug\AdoTest.exe
+C:\Users\t-xubai\Desktop\Projects\AdoTest\AdoTest\obj\Debug\AdoTest.pdb

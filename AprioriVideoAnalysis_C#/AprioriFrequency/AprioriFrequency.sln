@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprioriFrequency", "Apriori\AprioriFrequency.csproj", "{549929C2-F86F-418F-B143-E144076ED18B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecomAlgorithm", "..\RecomAlgorithm\RecomAlgorithm\RecomAlgorithm.csproj", "{B8F281A4-EADF-4023-BF9B-22F89FB8E2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoTest", "..\AdoTest\AdoTest\AdoTest.csproj", "{DC01FB72-F741-4239-BAB4-BCFA1BC16875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprioriDiffTime", "..\AprioriDiffTime\Apriori\AprioriDiffTime.csproj", "{DA31B1B6-D842-41FD-8691-C15BBCAC3BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549929C2-F86F-418F-B143-E144076ED18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549929C2-F86F-418F-B143-E144076ED18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549929C2-F86F-418F-B143-E144076ED18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549929C2-F86F-418F-B143-E144076ED18B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F281A4-EADF-4023-BF9B-22F89FB8E2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F281A4-EADF-4023-BF9B-22F89FB8E2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F281A4-EADF-4023-BF9B-22F89FB8E2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F281A4-EADF-4023-BF9B-22F89FB8E2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC01FB72-F741-4239-BAB4-BCFA1BC16875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC01FB72-F741-4239-BAB4-BCFA1BC16875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC01FB72-F741-4239-BAB4-BCFA1BC16875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC01FB72-F741-4239-BAB4-BCFA1BC16875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA31B1B6-D842-41FD-8691-C15BBCAC3BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA31B1B6-D842-41FD-8691-C15BBCAC3BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA31B1B6-D842-41FD-8691-C15BBCAC3BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA31B1B6-D842-41FD-8691-C15BBCAC3BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://presleyyuan.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Apriori\\AprioriFrequency.csproj
+		SccProjectName1 = Apriori
+		SccLocalPath1 = Apriori
+		SccProjectUniqueName2 = ..\\AprioriDiffTime\\Apriori\\AprioriDiffTime.csproj
+		SccProjectName2 = ../AprioriDiffTime/Apriori
+		SccLocalPath2 = ..\\AprioriDiffTime\\Apriori
+	EndGlobalSection
+EndGlobal

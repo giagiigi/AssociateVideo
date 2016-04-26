@@ -1,0 +1,6 @@
+c:\users\t-xubai\documents\visual studio 2015\Projects\RecomAlgorithm\RecomAlgorithm\bin\Debug\RecomAlgorithm.exe.config
+C:\Users\t-xubai\Documents\Visual Studio 2015\Projects\RecomAlgorithm\RecomAlgorithm\bin\Debug\RecomAlgorithm.exe
+C:\Users\t-xubai\Documents\Visual Studio 2015\Projects\RecomAlgorithm\RecomAlgorithm\bin\Debug\RecomAlgorithm.pdb
+C:\Users\t-xubai\Documents\Visual Studio 2015\Projects\RecomAlgorithm\RecomAlgorithm\obj\Debug\RecomAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\t-xubai\Documents\Visual Studio 2015\Projects\RecomAlgorithm\RecomAlgorithm\obj\Debug\RecomAlgorithm.exe
+C:\Users\t-xubai\Documents\Visual Studio 2015\Projects\RecomAlgorithm\RecomAlgorithm\obj\Debug\RecomAlgorithm.pdb

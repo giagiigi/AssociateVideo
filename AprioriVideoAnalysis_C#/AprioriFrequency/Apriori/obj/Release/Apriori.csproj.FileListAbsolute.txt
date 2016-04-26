@@ -1,0 +1,8 @@
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\bin\Release\Apriori.exe.config
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\bin\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\bin\Release\Apriori.pdb
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Release\Apriori.csprojResolveAssemblyReference.cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Release\Apriori.Properties.Resources.resources
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Release\Apriori.csproj.GenerateResource.Cache
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Release\Apriori.exe
+C:\Users\t-xubai\Desktop\cloudfile\Goodies\Apriori\Apriori\obj\Release\Apriori.pdb
